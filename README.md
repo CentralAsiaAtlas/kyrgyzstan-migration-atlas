@@ -30,6 +30,16 @@ This repository contains GIS data, maps, and analysis related to migration, agri
 - Humanitarian Data Exchange (HDX)
 - World Bank
 
-## Author
+##Keywords
+GIS
+QGIS
+Migration
+Remittances
+Kyrgyzstan
+Central Asia
+Development
+Rural Development
+Agriculture
+Spatial Analysis## Author
 
 Tariq Haniff
